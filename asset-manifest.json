@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/employ_axios_crud/static/css/main.31d6cfe0.css",
+    "main.js": "/employ_axios_crud/static/js/main.3718c0ce.js",
+    "index.html": "/employ_axios_crud/index.html",
+    "main.3718c0ce.js.map": "/employ_axios_crud/static/js/main.3718c0ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3718c0ce.js"
+  ]
+}
